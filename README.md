@@ -1,6 +1,6 @@
 ### Hello there! I'm Adam AKA Addman 👋
 
-I mainly like to code in JS/TS but will work in others if needed
+I mainly like to code in JS/TS, but will work in others if needed
 
 ### 🔭 I'm currently working on:
 - **Observer** - A Hypixel statistics bot ([Invite](https://discord.com/api/oauth2/authorize?client_id=813718772908163082&permissions=379968&scope=bot%20applications.commands))
