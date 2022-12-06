@@ -16,4 +16,4 @@ I mainly like to code in JS/TS, but will work in others if needed
 ### Github Stats
 <img src="https://komarev.com/ghpvc/?username=AddmanMinecraft&color=64DFDF" alt="">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AddmanMinecraft&count_private=true&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddmanMinecraft&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddmanMinecraft&show_icons=true&theme=radical" />
