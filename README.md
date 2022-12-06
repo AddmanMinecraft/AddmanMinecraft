@@ -14,5 +14,4 @@ I mainly like to code in JS/TS but will work in others if needed
 - **Discord:** `Addman#1234`
 
 ### Github Stats
-![Profile views](https://gpvc.arturio.dev/AddmanMinecraft)<br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AddmanMinecraft&count_private=true&show_icons=true&theme=radical" />
