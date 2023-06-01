@@ -18,4 +18,4 @@ I mainly like to code in JS/TS, but will work in others if needed
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AddmanMinecraft&count_private=true&show_icons=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddmanMinecraft&show_icons=true&theme=radical" />
 
-<img src="https://api.status.gg/discord/351132215700357131?theme%5Bbackground%5D%5Bprimary%5D=874e5b&theme%5Bbackground%5D%5Bsecondary%5D=4b283b"/>
+<img src="[https://api.status.gg/discord/351132215700357131?theme%5Bbackground%5D%5Bprimary%5D=874e5b&theme%5Bbackground%5D%5Bsecondary%5D=4b283b](https://api.status.gg/discord/351132215700357131?format=svg&width=480&theme%5Bbackground%5D%5Bprimary%5D=874e5b&theme%5Bbackground%5D%5Bsecondary%5D=4b283b)"/>
